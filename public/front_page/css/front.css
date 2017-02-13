@@ -1,0 +1,23 @@
+
+body {
+background: url("../images/bg.jpg") no-repeat center center fixed;
+color: white;
+}
+
+.page-name{
+  font-family: 'Lobster', cursive;
+}
+
+.size-large{
+  font-size: 120px;
+}
+
+.especial-font{
+  color:#F1C40F;
+  font-size: 40px;
+}
+
+
+.ltext{
+  font-size: 100px;
+}
